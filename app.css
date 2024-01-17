@@ -26,7 +26,7 @@
   --cards: #e4e6e6; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(assets/Kimi no Nawa Nature_1.jpg); /* Image URL */
+  --imgbg: url(assets/Kimi_no_Nawa_Nature_2.jpg); /* Image URL */
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0),
     rgba(255, 255, 255, 0)
@@ -44,7 +44,7 @@
   --sfg: #2c292e; /* Secondary Foreground color */
 
   /* Image background  */
-  --imgbg: url(assets/background.jpg); /* Image URL */
+  --imgbg: url(assets/Kimi_no_Nawa_Nature_1.jpg); /* Image URL */
   --imgcol: linear-gradient(
     rgba(0, 0, 0, 0),
     rgba(0, 0, 0, 0)
