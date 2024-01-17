@@ -32,8 +32,8 @@ const CONFIG = {
 	language: 'en', // More languages in https://openweathermap.org/current#multi
 
 	trackLocation: true, // If false or an error occurs, the app will use the lat/lon below
-	defaultLatitude: '37.775',
-	defaultLongitude: '-122.419',
+	defaultLatitude: '13.1391',
+	defaultLongitude: '123.7438',
 
 	// Autochange
 	autoChangeTheme: true,
@@ -147,8 +147,8 @@ const CONFIG = {
 					link: 'canva.com',
 				},
 				{
-					name: 'Youtube',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'MyBib',
+					link: 'https://www.mybib.com/#/',
 				},
 				{
 					name: 'Pinterest',
@@ -162,19 +162,19 @@ const CONFIG = {
 			links: [
 				{
 					name: 'Z-Library',
-					link: 'https://www.linkedin.com',
+					link: 'https://singlelogin.se/',
 				},
 				{
-					name: 'FMHY',
-					link: 'https://www.dribbble.com',
+					name: 'Resources',
+					link: 'fmhy.pages.dev',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Symbolab',
+					link: 'symbolab.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'MATHalino',
+					link: 'https://mathalino.com',
 				},
 			],
 		},
