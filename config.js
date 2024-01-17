@@ -11,8 +11,8 @@ const CONFIG = {
 	// └─┘┴ ┴└─┘┴└─┘└─┘
 
 	// General
-	name: 'John',
-	imageBackground: false,
+	name: 'Felix',
+	imageBackground: true,
 	openInNewTab: true,
 	twelveHourFormat: false,
 
@@ -20,7 +20,7 @@ const CONFIG = {
 	greetingMorning: 'Good morning!',
 	greetingAfternoon: 'Good afternoon,',
 	greetingEvening: 'Good evening,',
-	greetingNight: 'Go to Sleep!',
+	greetingNight: 'GO TO SLEEP!',
 
 	// Layout
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
+			name: 'Google',
+			icon: 'search',
+			link: 'https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwjiv8zku7f5AhVRBd4KHVkAB0IQPAgI',
 		},
 		{
 			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.protonmail.com/',
+			name: 'Bing',
+			icon: 'search-code',
+			link: 'https://www.bing.com/?toWww=1&redig=41960617ADBC4A5299AC47DB6C6334D2',
 		},
 		{
 			id: '3',
-			name: 'Todoist',
-			icon: 'trello',
-			link: 'https://todoist.com',
+			name: 'YouTube',
+			icon: 'youtube',
+			link: 'www.youtube.com',
 		},
 		{
 			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
+			name: 'Minecraft Parkour',
+			icon: 'box',
+			link: 'https://www.youtube.com/watch?v=intRX7BRA90',
 		},
 		{
 			id: '5',
-			name: 'Reddit',
-			icon: 'glasses',
-			link: 'https://reddit.com',
+			name: 'ChatGPT',
+			icon: 'code',
+			link: 'chat.openai.com',
 		},
 		{
 			id: '6',
-			name: 'Odysee',
-			icon: 'youtube',
-			link: 'https://odysee.com/',
+			name: 'ZeroGPT',
+			icon: 'venetian-mask',
+			link: 'https://www.zerogpt.com',
 		},
 	],
 
@@ -135,24 +135,24 @@ const CONFIG = {
 	// First Links Container
 	firstlistsContainer: [
 		{
-			icon: 'music',
+			icon: 'brain',
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'ILovePDF.com',
+					link: 'ilovepdf.com',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Canva',
+					link: 'canva.com',
 				},
 				{
 					name: 'Oldies',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Pinterest',
+					link: 'https://www.pinterest.ph',
 				},
 			],
 		},
@@ -161,11 +161,11 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
+					name: 'Z-Library',
 					link: 'https://www.linkedin.com',
 				},
 				{
-					name: 'Dribbble',
+					name: 'FMHY',
 					link: 'https://www.dribbble.com',
 				},
 				{
