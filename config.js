@@ -147,7 +147,7 @@ const CONFIG = {
 					link: 'canva.com',
 				},
 				{
-					name: 'Oldies',
+					name: 'Youtube',
 					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
 				},
 				{
