@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
+	weatherKey: 'b84af82acaf1603a4a875d73d962e070', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	language: 'en', // More languages in https://openweathermap.org/current#multi
@@ -67,7 +67,7 @@ const CONFIG = {
 			id: '3',
 			name: 'YouTube',
 			icon: 'youtube',
-			link: 'www.youtube.com',
+			link: 'https://www.youtube.com',
 		},
 		{
 			id: '4',
@@ -79,7 +79,7 @@ const CONFIG = {
 			id: '5',
 			name: 'ChatGPT',
 			icon: 'code',
-			link: 'chat.openai.com',
+			link: 'https://chat.openai.com',
 		},
 		{
 			id: '6',
@@ -140,11 +140,11 @@ const CONFIG = {
 			links: [
 				{
 					name: 'ILovePDF.com',
-					link: 'ilovepdf.com',
+					link: 'https://www.ilovepdf.com',
 				},
 				{
 					name: 'Canva',
-					link: 'canva.com',
+					link: 'https://www.canva.com',
 				},
 				{
 					name: 'MyBib',
@@ -166,11 +166,11 @@ const CONFIG = {
 				},
 				{
 					name: 'Resources',
-					link: 'fmhy.pages.dev',
+					link: 'https://fmhy.pages.dev',
 				},
 				{
 					name: 'Symbolab',
-					link: 'symbolab.com',
+					link: 'https://symbolab.com',
 				},
 				{
 					name: 'MATHalino',
