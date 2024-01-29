@@ -139,6 +139,28 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
+					name: 'Hydro',
+					link: 'https://drive.google.com/drive/u/0/folders/1IaEH0SenHUMKm5ZcMNVxQZc9a1Pgs-Gc',
+				},
+				{
+					name: 'Soil Mech',
+					link: 'https://drive.google.com/drive/u/1/folders/1q15GJiuq_0I0lZPf7AYS5N6alMOHnrrw',
+				},
+				{
+					name: 'Steel Design',
+					link: 'https://bulms.bicol-u.edu.ph/course/view.php?id=1661',
+				},
+				{
+					name: 'GClassroom',
+					link: 'https://classroom.google.com/u/0/h',
+				},
+			],
+		},
+		{
+			icon: 'coffee',
+			id: '2',
+			links: [
+				{
 					name: 'ILovePDF.com',
 					link: 'https://www.ilovepdf.com',
 				},
@@ -151,30 +173,8 @@ const CONFIG = {
 					link: 'https://www.mybib.com/#/',
 				},
 				{
-					name: 'Pinterest',
-					link: 'https://www.pinterest.ph',
-				},
-			],
-		},
-		{
-			icon: 'coffee',
-			id: '2',
-			links: [
-				{
-					name: 'Z-Library',
-					link: 'https://singlelogin.se/',
-				},
-				{
 					name: 'Resources',
 					link: 'https://fmhy.pages.dev',
-				},
-				{
-					name: 'Symbolab',
-					link: 'https://symbolab.com',
-				},
-				{
-					name: 'MATHalino',
-					link: 'https://mathalino.com',
 				},
 			],
 		},
