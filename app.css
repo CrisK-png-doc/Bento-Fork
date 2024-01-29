@@ -17,8 +17,8 @@
   --icon: 3vh; /* Icon Size */
 
   /* Fonts Color */
-  --fg: #3a3a3a; /* Foreground color */
-  --sfg: #494949; /* Sceondary Foreground color */
+  --fg: #d8dee9; /* Foreground color #3a3a3a */ 
+  --sfg: #2c292e; /* Sceondary Foreground color #494949 */
 
   /* Light Colors  */
   --accent: #57a0d9; /* Hover color */
@@ -26,7 +26,7 @@
   --cards: #e4e6e6; /* Cards color */
 
   /* Image background  */
-  --imgbg: url(assets/Kimi_no_Nawa_Nature_2.jpg); /* Image URL */
+  --imgbg: url(assets/cityscape.jpg); /* Image URL */
   --imgcol: linear-gradient(
     rgba(255, 255, 255, 0),
     rgba(255, 255, 255, 0)
@@ -40,8 +40,8 @@
   --cards: #201e21; /* Cards color */
 
   /* Fonts Color */
-  --fg: #d8dee9; /* Foreground color */
-  --sfg: #2c292e; /* Secondary Foreground color */
+  --fg: #d8dee9; /* Foreground color #d8dee9 */
+  --sfg: #2c292e; /* Secondary Foreground color #2c292e */
 
   /* Image background  */
   --imgbg: url(assets/Kimi_no_Nawa_Nature_1.jpg); /* Image URL */
