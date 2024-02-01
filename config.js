@@ -165,12 +165,12 @@ const CONFIG = {
 					link: 'https://www.ilovepdf.com',
 				},
 				{
-					name: 'Canva',
-					link: 'https://www.canva.com',
+					name: 'Python',
+					link: 'https://programming-24.mooc.fi/',
 				},
 				{
-					name: 'MyBib',
-					link: 'https://www.mybib.com/#/',
+					name: 'Java',
+					link: 'https://java-programming.mooc.fi',
 				},
 				{
 					name: 'Resources',
